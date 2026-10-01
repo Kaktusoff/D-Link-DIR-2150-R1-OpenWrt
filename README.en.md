@@ -33,7 +33,7 @@ No personal credentials or device backup are distributed. A fresh image has no p
 
 [Sources and attribution](SOURCES.md) · [Image audit](metadata/image-audit.json) · [GitHub Issues](https://github.com/Kaktusoff/D-Link-DIR-2150-R1-OpenWrt/issues)
 
-For questions, include the hardware revision, installed OpenWrt version and exact error. Never post passwords, private keys or VPN credentials.
+For questions, contact [Kaktusoff by private message on XDA](https://xdaforums.com/m/kaktusoff.7225742/) or use [GitHub Issues](https://github.com/Kaktusoff/D-Link-DIR-2150-R1-OpenWrt/issues). Include the hardware revision, installed OpenWrt version and exact error. Never post passwords, private keys or VPN credentials.
 
 [Optional support for Kaktusoff's work](DONATE.md). Downloads and documentation are free; donations are not required for access or support. The firmware itself is the work of OpenWrt and its contributors.
 
